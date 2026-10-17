@@ -6,6 +6,10 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=QeZzhi&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
 </p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=QeZzhi&theme=aurora" width="100%" alt="Animated pinned projects section" />
+</p>
+
 # 💫 About Me:
 🔭 I'm currently working on<br>   Qora — мой собственный язык программирования<br>   QCC — компилятор для Qora (написан на C)<br>   QezOS — прошивка для M5StickS3<br><br>👯 I'm looking to collaborate on<br>   Open-source проекты на C/C++<br>   Разработка компиляторов и встраиваемых систем<br>   Прошивки для микроконтроллеров (ESP32, M5Stack)<br><br>🤝 I'm looking for help with<br>   Оптимизацией QezOS<br>   Дописыванием QCC<br>   Ревью кода и советами по архитектуре<br><br>🌱 I'm currently learning<br>   C (системное программирование)<br>   Ассемблер (Xtensa, ARM)<br>   Разработка компиляторов (лексинг, парсинг, codegen)<br>   Linux (Arch, дистрибутивы, серверы)<br><br>💬 Ask me about<br>   C/C++ и Linux<br>   M5StickS3 и разработку прошивок<br>   Компиляторы<br><br>⚡ Fun fact<br>   Мне 14 лет, и я пишу свой компилятор и операционную систему<br>   для микроконтроллера. Начал программировать в 11 лет.
 
