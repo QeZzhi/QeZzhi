@@ -17,15 +17,17 @@
 
   <!-- Фон: бегущая строка с кодом на C -->
   <g fill="#238636" opacity="0.15" font-family="monospace" font-size="14">
+    <!-- Левый край: базовый C -->
     <text x="20" y="40">int main() {</text>
     <text x="20" y="60">  printf("Hello, QezOS");</text>
     <text x="20" y="80">  return 0;</text>
     <text x="20" y="100">}</text>
     
-    <text x="600" y="40">struct Node {</text>
-    <text x="600" y="60">  int data;</text>
-    <text x="600" y="80">  struct Node* next;</text>
-    <text x="600" y="100">};</text>
+    <!-- Правый край: отсылка к QCC (AST) -->
+    <text x="580" y="40">typedef struct {</text>
+    <text x="580" y="60">  TokenType type;</text>
+    <text x="580" y="80">  struct ASTNode* left;</text>
+    <text x="580" y="100">} ASTNode; // QCC</text>
   </g>
 
   <!-- Главный текст (Никнейм) -->
