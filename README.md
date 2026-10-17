@@ -2,11 +2,7 @@
   <img src="https://www.gitskins.com/api/section/wordmark?username=QeZzhi&theme=aurora&label=QeZzhi%20Torvalds" width="100%" alt="3D ASCII wordmark for Linus Torvalds" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=QeZzhi&theme=aurora" width="100%" alt="Animated ASCII profile scan" />
-</p>
 
-<br />
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=QeZzhi&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
