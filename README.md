@@ -8,10 +8,6 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=QeZzhi&theme=aurora&style=snake" width="100%" alt="Animated contribution Snake game" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/chess?username=QeZzhi&theme=aurora" width="100%" alt="Animated automatic chess replay" />
-</p>
-
 <br />
 
 # 💫 About Me:
